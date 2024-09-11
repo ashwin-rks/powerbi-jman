@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "waterfall"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bcb1e2cc-6ad1-43a0-856a-57986e0f6675"
+  }
+}
